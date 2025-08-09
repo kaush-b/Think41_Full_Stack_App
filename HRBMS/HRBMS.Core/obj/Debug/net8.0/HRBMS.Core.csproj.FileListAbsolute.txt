@@ -1,0 +1,12 @@
+/workspace/HRBMS/HRBMS.Core/bin/Debug/net8.0/HRBMS.Core.deps.json
+/workspace/HRBMS/HRBMS.Core/bin/Debug/net8.0/HRBMS.Core.dll
+/workspace/HRBMS/HRBMS.Core/bin/Debug/net8.0/HRBMS.Core.pdb
+/workspace/HRBMS/HRBMS.Core/obj/Debug/net8.0/HRBMS.Core.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/HRBMS/HRBMS.Core/obj/Debug/net8.0/HRBMS.Core.AssemblyInfoInputs.cache
+/workspace/HRBMS/HRBMS.Core/obj/Debug/net8.0/HRBMS.Core.AssemblyInfo.cs
+/workspace/HRBMS/HRBMS.Core/obj/Debug/net8.0/HRBMS.Core.csproj.CoreCompileInputs.cache
+/workspace/HRBMS/HRBMS.Core/obj/Debug/net8.0/HRBMS.Core.sourcelink.json
+/workspace/HRBMS/HRBMS.Core/obj/Debug/net8.0/HRBMS.Core.dll
+/workspace/HRBMS/HRBMS.Core/obj/Debug/net8.0/refint/HRBMS.Core.dll
+/workspace/HRBMS/HRBMS.Core/obj/Debug/net8.0/HRBMS.Core.pdb
+/workspace/HRBMS/HRBMS.Core/obj/Debug/net8.0/ref/HRBMS.Core.dll
